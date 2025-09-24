@@ -1,0 +1,4 @@
+2025-09-23 20:24:27.561 [info] [2025-09-23 13:24:27.211] [        230ms] [/home/ph11/Downloads] git rev-parse --show-toplevel • FAILED
+2025-09-23 20:24:27.561 [info] 
+Error: fatal: not a git repository (or any of the parent directories): .git
+

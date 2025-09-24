@@ -1,0 +1,7 @@
+2025-09-24 02:02:03.970 [info] GitLens v17.4.1 activating in Visual Studio Code (1.104.1) on the desktop; language='en', logLevel='warn', defaultDateLocale='null' (a5425349afdd93413606b5cadbf55b13ebd1b442f6b25e9bb003e901f7ddbb94|95fa6fb1-1428-4ce0-900e-26eb1998b4601758654115266)
+To enable debug logging, set `"gitlens.outputLevel": "debug"` or run "GitLens: Enable Debug Logging" from the Command Palette
+[2025-09-23 19:02:02.549] [            3] ProductConfigProvider.load 
+FetchError: request to https://configs.gitkraken.dev/gitlens/product.json failed, reason: getaddrinfo ENOTFOUND configs.gitkraken.dev
+[2025-09-23 19:02:02.549] [            3] ProductConfigProvider.load 
+FetchError: request to https://configs.gitkraken.dev/gitlens/product.json failed, reason: getaddrinfo ENOTFOUND configs.gitkraken.dev
+

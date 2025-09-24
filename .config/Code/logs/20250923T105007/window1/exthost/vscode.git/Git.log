@@ -1,0 +1,156 @@
+2025-09-23 10:50:16.517 [info] [main] Log level: Info
+2025-09-23 10:50:16.517 [info] [main] Validating found git in: "git"
+2025-09-23 10:50:16.517 [info] [main] Using git "2.43.0" from "git"
+2025-09-23 10:50:16.517 [info] [Model][doInitialScan] Initial repository scan started
+2025-09-23 10:50:16.517 [info] > git rev-parse --show-toplevel [339ms]
+2025-09-23 10:50:16.517 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-09-23 10:50:16.517 [info] > git rev-parse --show-toplevel [10ms]
+2025-09-23 10:50:16.816 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [282ms]
+2025-09-23 10:50:16.886 [info] [Model][openRepository] Opened repository (path): /home/ph11/Documents/xusux
+2025-09-23 10:50:16.886 [info] [Model][openRepository] Opened repository (real path): /home/ph11/Documents/xusux
+2025-09-23 10:50:16.886 [info] [Model][openRepository] Opened repository (kind): repository
+2025-09-23 10:50:23.807 [info] > git rev-parse --show-toplevel [6828ms]
+2025-09-23 10:50:23.809 [info] > git config --get commit.template [6848ms]
+2025-09-23 10:50:24.016 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [147ms]
+2025-09-23 10:50:24.029 [info] [Model][openRepository] Opened repository (path): /home/ph11/Documents/HospitalFullStack
+2025-09-23 10:50:24.029 [info] [Model][openRepository] Opened repository (real path): /home/ph11/Documents/HospitalFullStack
+2025-09-23 10:50:24.029 [info] [Model][openRepository] Opened repository (kind): repository
+2025-09-23 10:50:24.184 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [238ms]
+2025-09-23 10:50:24.474 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/ph11/Documents/xusux/.git/refs/remotes/origin/master'
+2025-09-23 10:50:24.475 [info] > git rev-parse --show-toplevel [297ms]
+2025-09-23 10:50:24.476 [info] > git config --get commit.template [306ms]
+2025-09-23 10:50:24.493 [info] > git rev-parse refs/remotes/origin/master [19ms]
+2025-09-23 10:50:25.656 [info] > git status -z -uall [1152ms]
+2025-09-23 10:50:25.657 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [1166ms]
+2025-09-23 10:50:25.679 [info] [Model][openRepository] Opened repository (path): /home/ph11/Documents/PTDANPM-N3
+2025-09-23 10:50:25.680 [info] [Model][openRepository] Opened repository (real path): /home/ph11/Documents/PTDANPM-N3
+2025-09-23 10:50:25.680 [info] [Model][openRepository] Opened repository (kind): repository
+2025-09-23 10:50:25.828 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1292ms]
+2025-09-23 10:50:25.829 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1310ms]
+2025-09-23 10:50:25.947 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/ph11/Documents/HospitalFullStack/.git/refs/remotes/origin/main'
+2025-09-23 10:50:25.968 [info] > git check-ignore -v -z --stdin [256ms]
+2025-09-23 10:50:25.969 [info] > git check-ignore -v -z --stdin [233ms]
+2025-09-23 10:50:25.971 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [84ms]
+2025-09-23 10:50:25.988 [info] > git rev-parse --show-toplevel [172ms]
+2025-09-23 10:50:25.989 [info] > git config --get commit.template [191ms]
+2025-09-23 10:50:26.012 [info] > git config --get --local branch.master.vscode-merge-base [24ms]
+2025-09-23 10:50:26.032 [info] > git config --get commit.template [66ms]
+2025-09-23 10:50:26.032 [info] > git rev-parse refs/remotes/origin/main [85ms]
+2025-09-23 10:50:26.112 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [81ms]
+2025-09-23 10:50:26.136 [info] > git rev-parse --show-toplevel [125ms]
+2025-09-23 10:50:26.219 [info] > git merge-base refs/heads/master refs/remotes/origin/master [85ms]
+2025-09-23 10:50:26.242 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [150ms]
+2025-09-23 10:50:26.242 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [172ms]
+2025-09-23 10:50:26.295 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/ph11/Documents/PTDANPM-N3/.git/refs/remotes/origin/main'
+2025-09-23 10:50:26.297 [info] > git diff --name-status -z --diff-filter=ADMR f85b14c84523e5644553b53ac382d79f9a6cb801...refs/remotes/origin/master [56ms]
+2025-09-23 10:50:26.298 [info] > git rev-parse --show-toplevel [112ms]
+2025-09-23 10:50:26.299 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [131ms]
+2025-09-23 10:50:26.367 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/ph11/Documents/xusux/.git/refs/remotes/origin/master'
+2025-09-23 10:50:26.387 [info] > git status -z -uall [337ms]
+2025-09-23 10:50:26.388 [info] > git rev-parse refs/remotes/origin/main [94ms]
+2025-09-23 10:50:26.613 [info] > git check-ignore -v -z --stdin [117ms]
+2025-09-23 10:50:26.615 [info] > git check-ignore -v -z --stdin [94ms]
+2025-09-23 10:50:26.616 [info] > git check-ignore -v -z --stdin [73ms]
+2025-09-23 10:50:26.618 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [155ms]
+2025-09-23 10:50:26.642 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [214ms]
+2025-09-23 10:50:26.644 [info] > git rev-parse refs/remotes/origin/master [278ms]
+2025-09-23 10:50:26.686 [info] > git rev-parse --show-toplevel [336ms]
+2025-09-23 10:50:26.686 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-09-23 10:50:26.936 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [250ms]
+2025-09-23 10:50:26.936 [info] > git config --get --local branch.main.vscode-merge-base [294ms]
+2025-09-23 10:50:26.948 [info] > git config --get commit.template [342ms]
+2025-09-23 10:50:26.959 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [12ms]
+2025-09-23 10:50:26.973 [info] > git rev-parse --show-toplevel [45ms]
+2025-09-23 10:50:26.973 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-09-23 10:50:27.007 [info] > git status -z -uall [344ms]
+2025-09-23 10:50:27.007 [info] > git merge-base refs/heads/main refs/remotes/origin/main [35ms]
+2025-09-23 10:50:27.036 [info] > git diff --name-status -z --diff-filter=ADMR d09389ae0dea8b5506be75b9699579db0f5ad2f1...refs/remotes/origin/main [11ms]
+2025-09-23 10:50:27.037 [info] > git rev-parse --show-toplevel [31ms]
+2025-09-23 10:50:27.037 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-09-23 10:50:27.037 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [49ms]
+2025-09-23 10:50:27.083 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/ph11/Documents/HospitalFullStack/.git/refs/remotes/origin/main'
+2025-09-23 10:50:27.088 [info] > git rev-parse --show-toplevel [20ms]
+2025-09-23 10:50:27.088 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-09-23 10:50:27.109 [info] > git rev-parse refs/remotes/origin/main [26ms]
+2025-09-23 10:50:27.168 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [31ms]
+2025-09-23 10:50:27.169 [info] > git rev-parse --show-toplevel [60ms]
+2025-09-23 10:50:27.169 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-09-23 10:50:27.201 [info] > git rev-parse --show-toplevel [14ms]
+2025-09-23 10:50:27.201 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-09-23 10:50:27.217 [info] > git rev-parse --show-toplevel [4ms]
+2025-09-23 10:50:27.232 [info] > git status -z -uall [828ms]
+2025-09-23 10:50:27.374 [info] > git status -z -uall [250ms]
+2025-09-23 10:50:27.375 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [126ms]
+2025-09-23 10:50:27.391 [info] > git rev-parse --show-toplevel [161ms]
+2025-09-23 10:50:27.438 [info] > git config --get --local branch.main.vscode-merge-base [51ms]
+2025-09-23 10:50:27.452 [info] > git config --get commit.template [127ms]
+2025-09-23 10:50:27.472 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [21ms]
+2025-09-23 10:50:27.485 [info] > git rev-parse --show-toplevel [60ms]
+2025-09-23 10:50:27.520 [info] > git merge-base refs/heads/main refs/remotes/origin/main [35ms]
+2025-09-23 10:50:27.632 [info] > git diff --name-status -z --diff-filter=ADMR 9ffff1d9b01f9f6131e29887caee14fee7f8aef9...refs/remotes/origin/main [98ms]
+2025-09-23 10:50:27.634 [info] > git rev-parse --show-toplevel [126ms]
+2025-09-23 10:50:27.635 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [137ms]
+2025-09-23 10:50:27.677 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/ph11/Documents/PTDANPM-N3/.git/refs/remotes/origin/main'
+2025-09-23 10:50:27.771 [info] > git rev-parse refs/remotes/origin/main [94ms]
+2025-09-23 10:50:27.818 [info] > git rev-parse --show-toplevel [159ms]
+2025-09-23 10:50:27.899 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [81ms]
+2025-09-23 10:50:28.141 [info] > git rev-parse --show-toplevel [247ms]
+2025-09-23 10:50:28.199 [info] > git rev-parse --show-toplevel [44ms]
+2025-09-23 10:50:28.215 [info] > git rev-parse --show-toplevel [2ms]
+2025-09-23 10:50:28.229 [info] > git rev-parse --show-toplevel [3ms]
+2025-09-23 10:50:28.387 [info] > git rev-parse --show-toplevel [42ms]
+2025-09-23 10:50:28.434 [info] > git rev-parse --show-toplevel [23ms]
+2025-09-23 10:50:28.485 [info] > git rev-parse --show-toplevel [10ms]
+2025-09-23 10:50:28.519 [info] > git rev-parse --show-toplevel [9ms]
+2025-09-23 10:50:28.665 [info] > git status -z -uall [871ms]
+2025-09-23 10:50:28.669 [info] > git rev-parse --show-toplevel [116ms]
+2025-09-23 10:50:28.693 [info] > git rev-parse --show-toplevel [7ms]
+2025-09-23 10:50:28.724 [info] > git rev-parse --show-toplevel [14ms]
+2025-09-23 10:50:28.752 [info] > git rev-parse --show-toplevel [6ms]
+2025-09-23 10:50:28.791 [info] > git rev-parse --show-toplevel [8ms]
+2025-09-23 10:50:28.816 [info] > git rev-parse --show-toplevel [6ms]
+2025-09-23 10:50:28.845 [info] > git rev-parse --show-toplevel [8ms]
+2025-09-23 10:50:28.873 [info] > git rev-parse --show-toplevel [4ms]
+2025-09-23 10:50:28.878 [info] [Model][doInitialScan] Initial repository scan completed - repositories (3), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-09-23 10:50:28.945 [info] > git config --get commit.template [4ms]
+2025-09-23 10:50:28.945 [info] > git config --get commit.template [20ms]
+2025-09-23 10:50:28.945 [info] > git config --get commit.template [39ms]
+2025-09-23 10:50:29.005 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [24ms]
+2025-09-23 10:50:29.006 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [42ms]
+2025-09-23 10:50:29.024 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/ph11/Documents/xusux/.git/refs/remotes/origin/master'
+2025-09-23 10:50:29.038 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/ph11/Documents/PTDANPM-N3/.git/refs/remotes/origin/main'
+2025-09-23 10:50:29.039 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [40ms]
+2025-09-23 10:50:29.053 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/ph11/Documents/HospitalFullStack/.git/refs/remotes/origin/main'
+2025-09-23 10:50:29.054 [info] > git rev-parse refs/remotes/origin/master [30ms]
+2025-09-23 10:50:29.086 [info] > git rev-parse refs/remotes/origin/main [33ms]
+2025-09-23 10:50:29.124 [info] > git rev-parse refs/remotes/origin/main [86ms]
+2025-09-23 10:50:29.202 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [37ms]
+2025-09-23 10:50:29.204 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [81ms]
+2025-09-23 10:50:29.205 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [121ms]
+2025-09-23 10:50:29.418 [info] > git status -z -uall [315ms]
+2025-09-23 10:50:29.489 [info] > git status -z -uall [422ms]
+2025-09-23 10:50:29.886 [info] > git status -z -uall [744ms]
+2025-09-23 11:49:20.885 [info] > git config --get commit.template [25ms]
+2025-09-23 11:49:20.889 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2025-09-23 11:49:20.907 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/ph11/Documents/PTDANPM-N3/.git/refs/remotes/origin/main'
+2025-09-23 11:49:20.911 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-09-23 11:49:20.955 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-09-23 11:49:21.562 [info] > git status -z -uall [631ms]
+2025-09-23 11:50:53.807 [info] > git config --get commit.template [19ms]
+2025-09-23 11:50:53.810 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-09-23 11:50:53.827 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/ph11/Documents/PTDANPM-N3/.git/refs/remotes/origin/main'
+2025-09-23 11:50:53.830 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2025-09-23 11:50:53.875 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-09-23 11:50:54.369 [info] > git status -z -uall [521ms]
+2025-09-23 11:54:45.715 [info] > git rev-parse --show-toplevel [3ms]
+2025-09-23 11:54:45.715 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-09-23 11:54:45.999 [info] > git rev-parse --show-toplevel [4ms]
+2025-09-23 11:54:45.999 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-09-23 12:03:41.344 [info] > git rev-parse --show-toplevel [4ms]
+2025-09-23 12:03:41.344 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-09-23 12:03:43.778 [info] > git rev-parse --show-toplevel [16ms]
+2025-09-23 12:03:43.778 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-09-23 12:03:53.093 [info] > git rev-parse --show-toplevel [5ms]
+2025-09-23 12:03:53.093 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-09-23 12:03:53.621 [info] > git rev-parse --show-toplevel [8ms]
+2025-09-23 12:03:53.621 [info] fatal: not a git repository (or any of the parent directories): .git

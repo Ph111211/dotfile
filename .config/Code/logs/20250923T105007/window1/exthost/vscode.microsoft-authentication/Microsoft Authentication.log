@@ -1,0 +1,16 @@
+2025-09-23 10:50:16.517 [info] [aebc6443-996d-45c2-90f0-388ff96faa56] Native Broker is only available on Windows
+2025-09-23 10:50:16.908 [info] [getSessions] [all] starting
+2025-09-23 10:50:16.908 [info] [getSessions] [all] returned 0 session(s)
+2025-09-23 10:50:16.908 [info] [getSessions] [all] starting
+2025-09-23 10:50:16.908 [info] [getSessions] [all] returned 0 session(s)
+2025-09-23 10:50:16.909 [info] [getSessions] [all] starting
+2025-09-23 10:50:16.909 [info] [getSessions] [all] returned 0 session(s)
+2025-09-23 10:50:16.909 [info] [getSessions] [all] starting
+2025-09-23 10:50:16.909 [info] [getSessions] [all] returned 0 session(s)
+2025-09-23 10:50:23.845 [info] [getSessions] [499b84ac-1321-427f-aa17-267ca6975798/.default offline_access] starting
+2025-09-23 10:50:23.845 [info] [aebc6443-996d-45c2-90f0-388ff96faa56] Native Broker is only available on Windows
+2025-09-23 10:50:24.196 [info] [getSessions] [499b84ac-1321-427f-aa17-267ca6975798/.default offline_access] returned 0 session(s)
+2025-09-23 10:50:27.557 [info] [getSessions] [499b84ac-1321-427f-aa17-267ca6975798/.default offline_access] starting
+2025-09-23 10:50:27.557 [info] [getSessions] [499b84ac-1321-427f-aa17-267ca6975798/.default offline_access] returned 0 session(s)
+2025-09-23 10:50:30.085 [info] [getSessions] [all] starting
+2025-09-23 10:50:30.085 [info] [getSessions] [all] returned 0 session(s)

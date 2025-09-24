@@ -1,0 +1,51 @@
+2025-09-22 23:49:01.611 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2025-09-22 23:49:01.611 [info] Using the Electron fetcher.
+2025-09-22 23:49:01.611 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2025-09-22 23:49:01.611 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2025-09-22 23:49:01.611 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2025-09-22 23:49:01.676 [info] Logged in as Ph111211
+2025-09-22 23:49:02.064 [info] FetcherService: electron-fetch succeeded
+2025-09-22 23:49:02.132 [info] GithubAvailableEmbeddingTypesManager: Got embeddings. Primary: metis-1024-I16-Binary,text-embedding-3-small-512. Deprecated: 
+2025-09-22 23:49:02.136 [info] GithubAvailableEmbeddingTypesManager: Got embeddings. Primary: metis-1024-I16-Binary,text-embedding-3-small-512. Deprecated: 
+2025-09-22 23:49:02.136 [info] WorkspaceChunkSearchService: using embedding type metis-1024-I16-Binary
+2025-09-22 23:49:02.173 [info] FetcherService: electron-fetch succeeded
+2025-09-22 23:49:02.174 [info] Got Copilot token for Ph111211
+2025-09-22 23:49:02.192 [info] activationBlocker from 'languageModelAccess' took for 427ms
+2025-09-22 23:49:02.235 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-09-22 23:49:02.235 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-09-22 23:49:02.247 [info] Registering default platform agent...
+2025-09-22 23:49:02.248 [info] activationBlocker from 'conversationFeature' took for 485ms
+2025-09-22 23:49:02.381 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-09-22 23:49:03.309 [info] Fetched model metadata in 1536ms ae2b351e-04d0-4a6b-ac9f-b20f8d1f9bb1
+2025-09-22 23:49:03.454 [info] Latest entry: ccreq:latest.copilotmd
+2025-09-22 23:49:03.455 [info] ccreq:8a3f523e.copilotmd | markdown
+2025-09-22 23:49:09.852 [info] Refetch model metadata: Succeeded in 1373ms a967f8f4-f4aa-4beb-8630-7b394538ef8e (DD1C:288AD4:C8F2BB:E63863:68D17E04) using node-fetch with status 200.
+2025-09-22 23:49:11.186 [info] Refetch model metadata: Succeeded in 1330ms c47d9265-529d-46dc-a0e9-887c7e1f79d8 (DD22:152FA0:C9F1BC:E73862:68D17E06) using electron-fetch with status 200.
+2025-09-22 23:49:12.823 [info] Refetch model metadata: Succeeded in 1627ms 900517d9-c40d-4989-8580-c3952083a1c8 (8CB4:6D4A9:C844C8:E58D14:68D17E07) using node-http with status 200.
+2025-09-22 23:49:43.427 [info] Logged in as Ph111211
+2025-09-22 23:49:43.822 [info] FetcherService: electron-fetch succeeded
+2025-09-22 23:49:43.942 [info] FetcherService: electron-fetch succeeded
+2025-09-22 23:49:43.942 [info] Got Copilot token for Ph111211
+2025-09-22 23:49:43.952 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-09-22 23:50:05.756 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2025-09-22 23:50:05.756 [info] Using the Electron fetcher.
+2025-09-22 23:50:05.756 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2025-09-22 23:50:05.756 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2025-09-22 23:50:05.756 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2025-09-22 23:50:05.765 [error] Error getting a session: Canceled: Canceled
+2025-09-22 23:50:05.858 [info] Logged in as Ph111211
+2025-09-22 23:50:07.073 [info] FetcherService: electron-fetch succeeded
+2025-09-22 23:50:07.073 [info] FetcherService: electron-fetch succeeded
+2025-09-22 23:50:07.074 [info] Got Copilot token for Ph111211
+2025-09-22 23:50:07.505 [info] activationBlocker from 'languageModelAccess' took for 1548ms
+2025-09-22 23:50:07.625 [info] copilot token chat_enabled: true, sku: free_limited_copilot
+2025-09-22 23:50:07.625 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-09-22 23:50:07.637 [info] Registering default platform agent...
+2025-09-22 23:50:07.638 [info] activationBlocker from 'conversationFeature' took for 1684ms
+2025-09-22 23:50:07.697 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-09-22 23:50:07.818 [info] Fetched model metadata in 323ms 510b0231-eba5-48ca-88a5-63bddcfd613f
+2025-09-22 23:50:07.820 [info] Latest entry: ccreq:latest.copilotmd
+2025-09-22 23:50:07.820 [info] ccreq:a983fb91.copilotmd | markdown
+2025-09-22 23:50:07.849 [info] GithubAvailableEmbeddingTypesManager: Got embeddings. Primary: metis-1024-I16-Binary,text-embedding-3-small-512. Deprecated: 
+2025-09-22 23:50:07.852 [info] GithubAvailableEmbeddingTypesManager: Got embeddings. Primary: metis-1024-I16-Binary,text-embedding-3-small-512. Deprecated: 
+2025-09-22 23:50:07.852 [info] WorkspaceChunkSearchService: using embedding type metis-1024-I16-Binary

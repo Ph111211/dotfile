@@ -1,0 +1,5 @@
+{
+    "workbench.colorTheme": "Tokyo Night Storm",
+    "containers.containerClient": "com.microsoft.visualstudio.containers.docker",
+    "containers.orchestratorClient": "com.microsoft.visualstudio.orchestrators.dockercompose"
+}

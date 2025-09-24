@@ -1,0 +1,25 @@
+2025-09-24 02:01:57.057 [info] Extension host with pid 5037 started
+2025-09-24 02:01:57.225 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-09-24 02:01:57.353 [info] ExtensionService#_doActivateExtension ms-azuretools.vscode-containers, startup: false, activationEvent: 'onWalkthrough:containersStart'
+2025-09-24 02:01:58.304 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-09-24 02:01:58.345 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-09-24 02:01:58.485 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-09-24 02:01:58.771 [info] Eager extensions activated
+2025-09-24 02:01:58.908 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-09-24 02:01:58.914 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-09-24 02:01:58.959 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2025-09-24 02:01:59.276 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-09-24 02:02:01.438 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2025-09-24 02:02:02.591 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2025-09-24 02:02:03.899 [error] FetchError: request to https://configs.gitkraken.dev/gitlens/product.json failed, reason: getaddrinfo ENOTFOUND configs.gitkraken.dev
+    at ClientRequest.<anonymous> (/home/ph11/.vscode/extensions/eamodio.gitlens-17.4.1/dist/gitlens.js:1671:15614)
+    at ClientRequest.emit (node:events:530:35)
+    at emitErrorEvent (node:_http_client:104:11)
+    at TLSSocket.socketErrorListener (node:_http_client:518:5)
+    at TLSSocket.emit (node:events:518:28)
+    at emitErrorNT (node:internal/streams/destroy:170:8)
+    at emitErrorCloseNT (node:internal/streams/destroy:129:3)
+    at processTicksAndRejections (node:internal/process/task_queues:90:21)
+2025-09-24 02:02:05.326 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/utility_init:2:10610)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)

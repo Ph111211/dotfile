@@ -1,0 +1,93 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "a5425349afdd93413606b5cadbf55b13ebd1b442f6b25e9bb003e901f7ddbb94",
+    "telemetry.devDeviceId": "c6888088-bc9a-4c27-b0bf-badd7df40bdd",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [],
+        "emptyWindows": [
+            {
+                "backupFolder": "1758654051577"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/ph11/Downloads": "__default__profile__",
+            "file:///home/ph11/Documents/PTDANPM-N3": "__default__profile__",
+            "file:///home/ph11/Documents/AILudoPlayer/src": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1758654051577": "__default__profile__"
+        }
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#24283b",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#8089b3",
+            "background": "#24283b",
+            "editorBackground": "#24283b",
+            "titleBarBackground": "#1f2335",
+            "titleBarBorder": "#1b1e2e",
+            "activityBarBackground": "#1f2335",
+            "activityBarBorder": "#1f2335",
+            "sideBarBackground": "#1f2335",
+            "sideBarBorder": "#1b1e2e",
+            "statusBarBackground": "#1f2335",
+            "statusBarBorder": "#1b1e2e",
+            "statusBarNoFolderBackground": "#1f2335",
+            "windowBorder": "#0d0f17"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 250,
+            "workspaces": {
+                "07462b406f333a1e70eb154a57c20420": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "6e9159cdd68c390d2c395c6818a900d6": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "76d69c676034b6431dab2938aa589eaa": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "d10f85c5996e1943f2d887110c2fa627": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                }
+            }
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "backupPath": "/home/ph11/.config/Code/Backups/1758654051577",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 0,
+                "width": 1536,
+                "height": 832
+            }
+        },
+        "openedWindows": []
+    }
+}

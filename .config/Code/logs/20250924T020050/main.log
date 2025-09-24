@@ -1,0 +1,14 @@
+2025-09-24 02:00:50.982 [error] Invalid path provided: /home/ph11/Documents/AILudoPlayer/src, ENOENT: no such file or directory, stat '/home/ph11/Documents/AILudoPlayer/src'
+2025-09-24 02:00:51.165 [info] update#setState idle
+2025-09-24 02:00:53.800 [error] #1: https://update.code.visualstudio.com/api/update/linux-x64/stable/0f0d87fa9e96c856c5212fc86db137ac0d783365 - error undefined net::ERR_INTERNET_DISCONNECTED
+2025-09-24 02:00:53.801 [error] update#isLatestVersion(): failed to check for updates
+2025-09-24 02:00:53.802 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123921)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-09-24 02:01:21.169 [info] update#setState checking for updates
+2025-09-24 02:01:21.178 [error] #2: https://update.code.visualstudio.com/api/update/linux-x64/stable/0f0d87fa9e96c856c5212fc86db137ac0d783365?bg=true - error undefined net::ERR_INTERNET_DISCONNECTED
+2025-09-24 02:01:21.179 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123921)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-09-24 02:01:21.179 [info] update#setState idle
+2025-09-24 02:01:49.733 [info] Extension host with pid 4677 exited with code: 0, signal: unknown.

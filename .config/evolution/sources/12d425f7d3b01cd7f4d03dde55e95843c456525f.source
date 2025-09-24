@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=phongphu7015@gmail.com
+Enabled=true
+Parent=4a01a9ddc0c6470747b9c815922388b13b61fd64
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=64560610aa8cead4815263a1b72fff4d014b0d60
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=phongphu7015@gmail.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none

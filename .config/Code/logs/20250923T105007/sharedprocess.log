@@ -1,0 +1,45 @@
+2025-09-23 10:50:14.233 [info] Getting Manifest... github.copilot-chat
+2025-09-23 10:50:14.235 [info] Getting Manifest... github.copilot-chat
+2025-09-23 10:50:14.274 [info] Installing extension: github.copilot-chat {"productVersion":{"version":"1.104.1","date":"2025-09-17T23:36:24.973Z"},"pinned":false,"operation":3,"isApplicationScoped":true,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/ph11/.vscode/extensions/extensions.json","path":"/home/ph11/.vscode/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-09-23 10:50:14.279 [info] Extension is already requested to install github.copilot-chat vscode-userdata:/home/ph11/.vscode/extensions/extensions.json
+2025-09-23 10:50:19.073 [info] Extension signature verification result for github.copilot-chat: Success. Internal Code: 0. Executed: true. Duration: 3573ms.
+2025-09-23 10:50:20.437 [info] Extracted extension to file:///home/ph11/.vscode/extensions/github.copilot-chat-0.31.2: github.copilot-chat
+2025-09-23 10:50:20.482 [info] Renamed to /home/ph11/.vscode/extensions/github.copilot-chat-0.31.2
+2025-09-23 10:50:20.551 [info] Marked extension as removed github.copilot-chat-0.31.1
+2025-09-23 10:50:20.573 [info] Extension installed successfully: github.copilot-chat vscode-userdata:/home/ph11/.vscode/extensions/extensions.json
+2025-09-23 11:54:40.670 [info] Getting Manifest... ms-vscode-remote.remote-ssh
+2025-09-23 11:54:40.757 [info] Installing extension: ms-vscode-remote.remote-ssh {"isMachineScoped":false,"donotIncludePackAndDependencies":false,"context":{"skipWalkthrough":true},"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/ph11/.vscode/extensions/extensions.json","path":"/home/ph11/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.104.1","date":"2025-09-17T23:36:24.973Z"}}
+2025-09-23 11:54:41.133 [info] Getting Manifest... ms-vscode-remote.remote-ssh-edit
+2025-09-23 11:54:41.988 [info] Getting Manifest... ms-vscode.remote-explorer
+2025-09-23 11:54:42.059 [info] Installing extension: ms-vscode-remote.remote-ssh-edit {"isMachineScoped":false,"donotIncludePackAndDependencies":false,"context":{"skipWalkthrough":true,"dependecyOrPackExtensionInstall":true},"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/ph11/.vscode/extensions/extensions.json","path":"/home/ph11/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.104.1","date":"2025-09-17T23:36:24.973Z"},"installGivenVersion":false}
+2025-09-23 11:54:42.059 [info] Installing extension: ms-vscode.remote-explorer {"isMachineScoped":false,"donotIncludePackAndDependencies":false,"context":{"skipWalkthrough":true,"dependecyOrPackExtensionInstall":true},"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/ph11/.vscode/extensions/extensions.json","path":"/home/ph11/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.104.1","date":"2025-09-17T23:36:24.973Z"},"installGivenVersion":false}
+2025-09-23 11:54:45.151 [info] Extension signature verification result for ms-vscode.remote-explorer: Success. Internal Code: 0. Executed: true. Duration: 2647ms.
+2025-09-23 11:54:45.173 [info] Extension signature verification result for ms-vscode-remote.remote-ssh: Success. Internal Code: 0. Executed: true. Duration: 2601ms.
+2025-09-23 11:54:45.272 [info] Extension signature verification result for ms-vscode-remote.remote-ssh-edit: Success. Internal Code: 0. Executed: true. Duration: 1957ms.
+2025-09-23 11:54:45.308 [info] Extracted extension to file:///home/ph11/.vscode/extensions/ms-vscode.remote-explorer-0.5.0: ms-vscode.remote-explorer
+2025-09-23 11:54:45.326 [info] Renamed to /home/ph11/.vscode/extensions/ms-vscode.remote-explorer-0.5.0
+2025-09-23 11:54:45.462 [info] Extracted extension to file:///home/ph11/.vscode/extensions/ms-vscode-remote.remote-ssh-edit-0.87.0: ms-vscode-remote.remote-ssh-edit
+2025-09-23 11:54:45.474 [info] Renamed to /home/ph11/.vscode/extensions/ms-vscode-remote.remote-ssh-edit-0.87.0
+2025-09-23 11:54:45.510 [info] Extracted extension to file:///home/ph11/.vscode/extensions/ms-vscode-remote.remote-ssh-0.120.0: ms-vscode-remote.remote-ssh
+2025-09-23 11:54:45.525 [info] Renamed to /home/ph11/.vscode/extensions/ms-vscode-remote.remote-ssh-0.120.0
+2025-09-23 11:54:45.570 [info] Extension installed successfully: ms-vscode.remote-explorer vscode-userdata:/home/ph11/.vscode/extensions/extensions.json
+2025-09-23 11:54:45.571 [info] Extension installed successfully: ms-vscode-remote.remote-ssh-edit vscode-userdata:/home/ph11/.vscode/extensions/extensions.json
+2025-09-23 11:54:45.571 [info] Extension installed successfully: ms-vscode-remote.remote-ssh vscode-userdata:/home/ph11/.vscode/extensions/extensions.json
+2025-09-23 12:03:36.281 [info] Getting Manifest... ms-azuretools.vscode-containers
+2025-09-23 12:03:37.374 [info] Installing extension: ms-azuretools.vscode-containers {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/ph11/.vscode/extensions/extensions.json","path":"/home/ph11/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.104.1","date":"2025-09-17T23:36:24.973Z"}}
+2025-09-23 12:03:39.049 [info] Getting Manifest... christian-kohler.npm-intellisense
+2025-09-23 12:03:39.119 [info] Installing extension: christian-kohler.npm-intellisense {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/ph11/.vscode/extensions/extensions.json","path":"/home/ph11/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.104.1","date":"2025-09-17T23:36:24.973Z"}}
+2025-09-23 12:03:40.737 [info] Extension signature verification result for ms-azuretools.vscode-containers: Success. Internal Code: 0. Executed: true. Duration: 2001ms.
+2025-09-23 12:03:41.109 [info] Extracted extension to file:///home/ph11/.vscode/extensions/ms-azuretools.vscode-containers-2.2.0: ms-azuretools.vscode-containers
+2025-09-23 12:03:41.132 [info] Renamed to /home/ph11/.vscode/extensions/ms-azuretools.vscode-containers-2.2.0
+2025-09-23 12:03:41.207 [info] Extension installed successfully: ms-azuretools.vscode-containers vscode-userdata:/home/ph11/.vscode/extensions/extensions.json
+2025-09-23 12:03:42.285 [info] Extension signature verification result for christian-kohler.npm-intellisense: Success. Internal Code: 0. Executed: true. Duration: 2492ms.
+2025-09-23 12:03:42.408 [info] Extracted extension to file:///home/ph11/.vscode/extensions/christian-kohler.npm-intellisense-1.4.5: christian-kohler.npm-intellisense
+2025-09-23 12:03:42.416 [info] Renamed to /home/ph11/.vscode/extensions/christian-kohler.npm-intellisense-1.4.5
+2025-09-23 12:03:42.459 [info] Extension installed successfully: christian-kohler.npm-intellisense vscode-userdata:/home/ph11/.vscode/extensions/extensions.json
+2025-09-23 12:03:48.069 [info] Getting Manifest... eamodio.gitlens
+2025-09-23 12:03:48.167 [info] Installing extension: eamodio.gitlens {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/ph11/.vscode/extensions/extensions.json","path":"/home/ph11/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.104.1","date":"2025-09-17T23:36:24.973Z"}}
+2025-09-23 12:03:51.174 [info] Extension signature verification result for eamodio.gitlens: Success. Internal Code: 0. Executed: true. Duration: 2045ms.
+2025-09-23 12:03:52.561 [info] Extracted extension to file:///home/ph11/.vscode/extensions/eamodio.gitlens-17.4.1: eamodio.gitlens
+2025-09-23 12:03:52.653 [info] Renamed to /home/ph11/.vscode/extensions/eamodio.gitlens-17.4.1
+2025-09-23 12:03:52.837 [info] Extension installed successfully: eamodio.gitlens vscode-userdata:/home/ph11/.vscode/extensions/extensions.json

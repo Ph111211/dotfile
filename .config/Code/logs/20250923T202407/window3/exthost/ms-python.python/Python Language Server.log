@@ -1,0 +1,35 @@
+2025-09-23 20:35:28.897 [info] (Client) Pylance client (2025.8.2) started with python extension (2025.14.0)
+2025-09-23 20:35:30.578 [info] (16918) Server root directory: file:///home/ph11/.vscode/extensions/ms-python.vscode-pylance-2025.8.2/dist
+2025-09-23 20:35:30.579 [info] (16918) Pylance language server 2025.8.2 (pyright version 1.1.405, commit d64f3fa0) starting
+2025-09-23 20:35:30.590 [info] (16918) Starting service instance "src" for workspace "/home/ph11/Documents/AILudoPlayer/src"
+2025-09-23 20:35:30.714 [info] (16918) Starting Mcp server id:3844 ...
+2025-09-23 20:35:30.773 [info] (16918) Setting environmentName for service "src": "3.12.3 (global)"
+2025-09-23 20:35:30.773 [info] (16918) Setting pythonPath for service "src": "/usr/bin/python3"
+2025-09-23 20:35:30.774 [info] (16918) No include entries specified; assuming /home/ph11/Documents/AILudoPlayer/src
+2025-09-23 20:35:30.775 [info] (16918) Auto-excluding **/node_modules
+2025-09-23 20:35:30.775 [info] (16918) Auto-excluding **/__pycache__
+2025-09-23 20:35:30.775 [info] (16918) Auto-excluding **/.*
+2025-09-23 20:35:30.833 [info] (16918) Assuming Python version 3.12.3.final.0
+2025-09-23 20:35:30.955 [info] (16918) Found 16 source files
+2025-09-23 20:35:30.994 [info] (16918) Settings have not changed. Skipping update.
+2025-09-23 20:35:32.859 [info] (16918) BG: Priority queue background worker(2) root directory: file:///home/ph11/.vscode/extensions/ms-python.vscode-pylance-2025.8.2/dist
+2025-09-23 20:35:32.861 [info] (16918) BG: Priority queue background worker(2) started
+2025-09-23 20:35:33.198 [info] (16918) BG: Indexer background runner(3) root directory: file:///home/ph11/.vscode/extensions/ms-python.vscode-pylance-2025.8.2/dist (index)
+2025-09-23 20:35:33.199 [info] (16918) BG: Indexing(3) started
+2025-09-23 20:35:34.527 [info] (16918) BG: scanned(3) 796 files over 1 exec env
+2025-09-23 20:35:37.596 [info] (16918) BG: [IDX(3)] Long operation: index execution environment file:///home/ph11/Documents/AILudoPlayer/src (2662ms)
+2025-09-23 20:35:37.609 [info] (16918) BG: [IDX(3)] Long operation: index packages file:///home/ph11/Documents/AILudoPlayer/src (2700ms)
+2025-09-23 20:35:37.610 [info] (16918) BG: indexed(3) 796 files over 1 exec env
+2025-09-23 20:35:37.769 [info] (16918) BG: Indexing finished(3).
+2025-09-23 20:45:29.045 [info] (16918) BG: Indexer background runner(4) root directory: file:///home/ph11/.vscode/extensions/ms-python.vscode-pylance-2025.8.2/dist (refresh)
+2025-09-23 20:45:29.046 [info] (16918) BG: Indexing(4) started
+2025-09-23 20:45:29.534 [info] (16918) BG: scanned(4) 797 files over 1 exec env
+2025-09-23 20:45:31.122 [info] (16918) BG: indexed(4) 797 files over 1 exec env
+2025-09-23 20:45:31.279 [info] (16918) BG: Indexing finished(4).
+2025-09-23 21:26:33.040 [info] (16918) BG: Indexer background runner(5) root directory: file:///home/ph11/.vscode/extensions/ms-python.vscode-pylance-2025.8.2/dist (refresh)
+2025-09-23 21:26:33.041 [info] (16918) BG: Indexing(5) started
+2025-09-23 21:26:33.441 [info] (16918) BG: scanned(5) 798 files over 1 exec env
+2025-09-23 21:26:35.501 [info] (16918) BG: indexed(5) 798 files over 1 exec env
+2025-09-23 21:26:35.638 [info] (16918) BG: Indexing finished(5).
+2025-09-23 21:41:48.988 [error] (16918) File or directory "/home/ph11/Documents/AILudoPlayer/src" does not exist.
+2025-09-23 21:41:48.989 [info] (16918) No source files found.

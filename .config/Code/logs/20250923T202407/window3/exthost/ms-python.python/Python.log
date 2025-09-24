@@ -1,0 +1,29 @@
+2025-09-23 20:35:27.414 [info] Native locator: Refresh started
+2025-09-23 20:35:27.648 [info] Native locator: Refresh started
+2025-09-23 20:35:27.701 [info] > pyenv which python
+2025-09-23 20:35:27.701 [info] cwd: .
+2025-09-23 20:35:27.908 [info] Native locator: Refresh finished in 488 ms
+2025-09-23 20:35:28.006 [info] Python interpreter path: /usr/bin/python3
+2025-09-23 20:35:30.621 [info] Starting Pylance language server.
+2025-09-23 20:36:16.823 [info] Discover tests for workspace name: src - uri: /home/ph11/Documents/AILudoPlayer/src/human_player.py
+2025-09-23 20:36:37.403 [info] Discover tests for workspace name: src - uri: /home/ph11/Documents/AILudoPlayer/src/human_player.py
+2025-09-23 20:36:56.550 [info] Discover tests for workspace name: src - uri: /home/ph11/Documents/AILudoPlayer/src/human_player.py
+2025-09-23 20:37:40.776 [info] Discover tests for workspace name: src - uri: /home/ph11/Documents/AILudoPlayer/src/ql_player_simple_actions.py
+2025-09-23 20:37:54.583 [info] Discover tests for workspace name: src - uri: /home/ph11/Documents/AILudoPlayer/src/ql_player_simple_actions.py
+2025-09-23 20:38:02.502 [info] Discover tests for workspace name: src - uri: /home/ph11/Documents/AILudoPlayer/src/ql_player_simple_actions.py
+2025-09-23 20:38:10.609 [info] Discover tests for workspace name: src - uri: /home/ph11/Documents/AILudoPlayer/src/ql_player_simple_actions.py
+2025-09-23 20:38:23.584 [info] Discover tests for workspace name: src - uri: /home/ph11/Documents/AILudoPlayer/src/ql_player_simple_actions.py
+2025-09-23 20:38:35.981 [info] Discover tests for workspace name: src - uri: /home/ph11/Documents/AILudoPlayer/src/ql_player_simple_actions.py
+2025-09-23 20:38:44.728 [info] Discover tests for workspace name: src - uri: /home/ph11/Documents/AILudoPlayer/src/ql_player_simple_actions.py
+2025-09-23 20:38:51.742 [info] Discover tests for workspace name: src - uri: /home/ph11/Documents/AILudoPlayer/src/ql_player_simple_actions.py
+2025-09-23 20:39:00.080 [info] Discover tests for workspace name: src - uri: /home/ph11/Documents/AILudoPlayer/src/ql_player_simple_actions.py
+2025-09-23 20:39:23.331 [info] Discover tests for workspace name: src - uri: /home/ph11/Documents/AILudoPlayer/src/ql_player.py
+2025-09-23 20:40:25.721 [info] Discover tests for workspace name: src - uri: /home/ph11/Documents/AILudoPlayer/src/ql_trainer.py
+2025-09-23 20:40:48.369 [info] Discover tests for workspace name: src - uri: /home/ph11/Documents/AILudoPlayer/src/ql_trainer.py
+2025-09-23 20:40:57.765 [info] Discover tests for workspace name: src - uri: /home/ph11/Documents/AILudoPlayer/src/ql_trainer.py
+2025-09-23 20:41:20.268 [info] Discover tests for workspace name: src - uri: /home/ph11/Documents/AILudoPlayer/src/ql_trainer.py
+2025-09-23 20:41:53.895 [info] Discover tests for workspace name: src - uri: /home/ph11/Documents/AILudoPlayer/src/ql_trainer.py
+2025-09-23 20:42:21.103 [info] Discover tests for workspace name: src - uri: /home/ph11/Documents/AILudoPlayer/src/ql_trainer.py
+2025-09-23 20:43:38.322 [info] Discover tests for workspace name: src - uri: /home/ph11/Documents/AILudoPlayer/src/ql_trainer.py
+2025-09-23 20:44:44.165 [info] Discover tests for workspace name: src - uri: /home/ph11/Documents/AILudoPlayer/src/ql_trainer.py
+2025-09-23 20:44:52.343 [info] Discover tests for workspace name: src - uri: /home/ph11/Documents/AILudoPlayer/src/tk_ludo.py

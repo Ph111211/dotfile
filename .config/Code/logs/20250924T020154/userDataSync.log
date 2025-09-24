@@ -1,0 +1,18 @@
+2025-09-24 02:01:56.263 [info] [AutoSync] Using settings sync service https://vscode-sync.trafficmanager.net/
+2025-09-24 02:01:56.263 [info] [AutoSync] Enabled.
+2025-09-24 02:01:56.263 [info] [AutoSync] Suspended until auth token is available.
+2025-09-24 02:01:58.566 [info] [AutoSync] Triggered by Interval
+2025-09-24 02:01:58.573 [info] Sync started.
+2025-09-24 02:01:58.929 [info] Request failed https://vscode-sync.trafficmanager.net/v1/manifest
+2025-09-24 02:01:58.930 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at gu.D (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:23017)
+    at async gu.manifest (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:20091)
+    at async Ku.createSyncTask (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:134486)
+    at async cd.I (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:9216)
+    at async cd.H (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:8860)
+2025-09-24 02:01:58.930 [error] RequestFailed (UserDataSyncError) syncResource:unknown operationId:unknown: Connection refused for the request 'https://vscode-sync.trafficmanager.net/v1/manifest'.
+    at gu.D (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:23017)
+    at async gu.manifest (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:20091)
+    at async Ku.createSyncTask (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:102:134486)
+    at async cd.I (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:9216)
+    at async cd.H (file:///usr/share/code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:109:8860)

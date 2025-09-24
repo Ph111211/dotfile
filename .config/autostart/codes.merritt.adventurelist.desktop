@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=codes.merritt.adventurelist
+X-XDP-Autostart=codes.merritt.adventurelist
+Exec=flatpak run --command=adventure_list codes.merritt.adventurelist
+X-Flatpak=codes.merritt.adventurelist

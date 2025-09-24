@@ -1,0 +1,33 @@
+2025-09-24 02:02:03.970 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2025-09-24 02:02:03.970 [info] Using the Electron fetcher.
+2025-09-24 02:02:03.970 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2025-09-24 02:02:03.970 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2025-09-24 02:02:03.970 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2025-09-24 02:02:03.978 [error] Error fetching available embedding types: Error: net::ERR_INTERNET_DISCONNECTED
+2025-09-24 02:02:04.183 [info] Logged in as Ph111211
+2025-09-24 02:02:04.193 [info] FetcherService: electron-fetch failed with error: net::ERR_INTERNET_DISCONNECTED
+2025-09-24 02:02:04.194 [error] Error fetching available embedding types: Error: net::ERR_INTERNET_DISCONNECTED
+2025-09-24 02:02:04.196 [info] FetcherService: electron-fetch failed with error: net::ERR_INTERNET_DISCONNECTED
+2025-09-24 02:02:04.276 [info] FetcherService: node-fetch failed with error: fetch failed
+2025-09-24 02:02:04.299 [info] FetcherService: node-fetch failed with error: fetch failed
+2025-09-24 02:02:04.319 [info] FetcherService: node-http failed with error: getaddrinfo ENOTFOUND api.github.com
+2025-09-24 02:02:04.323 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/utility_init:2:10610)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28): Failed to get copilot token
+2025-09-24 02:02:04.323 [error] GitHub Copilot could not connect to server. Extension activation failed: "net::ERR_INTERNET_DISCONNECTED"
+2025-09-24 02:02:04.323 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-09-24 02:02:04.323 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/utility_init:2:10610)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-09-24 02:02:04.323 [info] activationBlocker from 'languageModelAccess' took for 1789ms
+2025-09-24 02:02:04.327 [info] FetcherService: node-http failed with error: getaddrinfo ENOTFOUND api.github.com
+2025-09-24 02:02:04.370 [error] Error fetching available embedding types: Error: net::ERR_INTERNET_DISCONNECTED
+2025-09-24 02:02:04.370 [info] GithubAvailableEmbeddingTypesManager: Could not find any available embedding types. Error: requestFailed
+2025-09-24 02:02:04.370 [info] GithubAvailableEmbeddingTypesManager: Could not find any available embedding types. Error: requestFailed
+2025-09-24 02:02:04.375 [info] Logged in as Ph111211
+2025-09-24 02:02:04.385 [info] FetcherService: electron-fetch failed with error: net::ERR_INTERNET_DISCONNECTED
+2025-09-24 02:02:04.423 [info] FetcherService: electron-fetch failed with error: net::ERR_INTERNET_DISCONNECTED
+2025-09-24 02:02:04.461 [info] FetcherService: node-fetch failed with error: fetch failed
+2025-09-24 02:02:04.482 [info] FetcherService: node-fetch failed with error: fetch failed
+2025-09-24 02:02:04.502 [info] FetcherService: node-http failed with error: getaddrinfo ENOTFOUND api.github.com
+2025-09-24 02:02:04.504 [info] FetcherService: node-http failed with error: getaddrinfo ENOTFOUND api.github.com

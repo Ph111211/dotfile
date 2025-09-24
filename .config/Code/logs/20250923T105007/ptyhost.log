@@ -1,0 +1,1 @@
+2025-09-23 10:50:21.826 [error] Failed to set sticky bit on /tmp/ph11-code-zsh: Error: ENOENT: no such file or directory, chmod '/tmp/ph11-code-zsh'

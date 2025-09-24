@@ -1,0 +1,22 @@
+2025-09-22 23:48:27.248 [info] Started initializing default profile extensions in extensions installation folder. file:///home/ph11/.vscode/extensions
+2025-09-22 23:48:27.313 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/ph11/.vscode/extensions Unable to create file 'vscode-userdata:/home/ph11/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2025-09-22 23:48:27.313 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/ph11/.vscode/extensions
+2025-09-22 23:48:54.592 [info] Getting Manifest... github.copilot-chat
+2025-09-22 23:48:55.834 [info] Installing extension: github.copilot-chat {"enable":true,"isApplicationScoped":true,"isMachineScoped":false,"installEverywhere":true,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/ph11/.vscode/extensions/extensions.json","path":"/home/ph11/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"productVersion":{"version":"1.104.1","date":"2025-09-17T23:36:24.973Z"}}
+2025-09-22 23:48:56.117 [info] Getting Manifest... github.copilot
+2025-09-22 23:48:56.194 [info] Installing extension: github.copilot {"enable":true,"isApplicationScoped":true,"isMachineScoped":false,"installEverywhere":true,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/ph11/.vscode/extensions/extensions.json","path":"/home/ph11/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"productVersion":{"version":"1.104.1","date":"2025-09-17T23:36:24.973Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2025-09-22 23:48:58.172 [info] Extension signature verification result for github.copilot-chat: Success. Internal Code: 0. Executed: true. Duration: 855ms.
+2025-09-22 23:48:58.373 [info] Extracted extension to file:///home/ph11/.vscode/extensions/github.copilot-chat-0.31.1: github.copilot-chat
+2025-09-22 23:48:58.383 [info] Renamed to /home/ph11/.vscode/extensions/github.copilot-chat-0.31.1
+2025-09-22 23:48:59.055 [info] Extension signature verification result for github.copilot: Success. Internal Code: 0. Executed: true. Duration: 706ms.
+2025-09-22 23:48:59.374 [info] Extracted extension to file:///home/ph11/.vscode/extensions/github.copilot-1.372.0: github.copilot
+2025-09-22 23:48:59.378 [info] Renamed to /home/ph11/.vscode/extensions/github.copilot-1.372.0
+2025-09-22 23:48:59.392 [info] Extension installed successfully: github.copilot-chat vscode-userdata:/home/ph11/.vscode/extensions/extensions.json
+2025-09-22 23:48:59.392 [info] Extension installed successfully: github.copilot vscode-userdata:/home/ph11/.vscode/extensions/extensions.json
+2025-09-22 23:52:52.686 [info] Getting Manifest... enkia.tokyo-night
+2025-09-22 23:52:52.829 [info] Installing extension: enkia.tokyo-night {"isMachineScoped":false,"donotIncludePackAndDependencies":true,"installGivenVersion":false,"pinned":false,"installPreReleaseVersion":false,"preRelease":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/ph11/.vscode/extensions/extensions.json","path":"/home/ph11/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"context":{"skipWalkthrough":true,"extensionInstallSource":"settingsSync","skipPublisherTrust":true},"productVersion":{"version":"1.104.1","date":"2025-09-17T23:36:24.973Z"}}
+2025-09-22 23:52:52.829 [info] Installing the extension without checking dependencies and pack enkia.tokyo-night
+2025-09-22 23:52:53.703 [info] Extension signature verification result for enkia.tokyo-night: Success. Internal Code: 0. Executed: true. Duration: 467ms.
+2025-09-22 23:52:53.710 [info] Extracted extension to file:///home/ph11/.vscode/extensions/enkia.tokyo-night-1.1.2: enkia.tokyo-night
+2025-09-22 23:52:53.714 [info] Renamed to /home/ph11/.vscode/extensions/enkia.tokyo-night-1.1.2
+2025-09-22 23:52:53.722 [info] Extension installed successfully: enkia.tokyo-night vscode-userdata:/home/ph11/.vscode/extensions/extensions.json

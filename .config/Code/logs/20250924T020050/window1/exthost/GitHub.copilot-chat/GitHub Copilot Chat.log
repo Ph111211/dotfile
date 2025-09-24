@@ -1,0 +1,41 @@
+2025-09-24 02:01:00.692 [info] [GitExtensionServiceImpl] Initializing Git extension service.
+2025-09-24 02:01:00.692 [info] Using the Electron fetcher.
+2025-09-24 02:01:00.692 [info] [GitExtensionServiceImpl] Successfully activated the vscode.git extension.
+2025-09-24 02:01:00.692 [info] [GitExtensionServiceImpl] Enablement state of the vscode.git extension: true.
+2025-09-24 02:01:00.692 [info] [GitExtensionServiceImpl] Successfully registered Git commit message provider.
+2025-09-24 02:01:00.692 [error] Error fetching available embedding types: Error: net::ERR_INTERNET_DISCONNECTED
+2025-09-24 02:01:00.709 [info] Logged in as Ph111211
+2025-09-24 02:01:00.805 [error] Error fetching available embedding types: Error: net::ERR_INTERNET_DISCONNECTED
+2025-09-24 02:01:00.807 [info] FetcherService: electron-fetch failed with error: net::ERR_INTERNET_DISCONNECTED
+2025-09-24 02:01:00.808 [info] FetcherService: electron-fetch failed with error: net::ERR_INTERNET_DISCONNECTED
+2025-09-24 02:01:00.856 [info] FetcherService: node-fetch failed with error: fetch failed
+2025-09-24 02:01:00.872 [info] FetcherService: node-fetch failed with error: fetch failed
+2025-09-24 02:01:00.883 [info] FetcherService: node-http failed with error: getaddrinfo ENOTFOUND api.github.com
+2025-09-24 02:01:00.885 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/utility_init:2:10610)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28): Failed to get copilot token
+2025-09-24 02:01:00.885 [error] GitHub Copilot could not connect to server. Extension activation failed: "net::ERR_INTERNET_DISCONNECTED"
+2025-09-24 02:01:00.885 [warning] [LanguageModelAccess] LanguageModel/Embeddings are not available without auth token
+2025-09-24 02:01:00.885 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/utility_init:2:10610)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-09-24 02:01:00.885 [info] activationBlocker from 'languageModelAccess' took for 747ms
+2025-09-24 02:01:00.896 [info] FetcherService: node-http failed with error: getaddrinfo ENOTFOUND api.github.com
+2025-09-24 02:01:00.920 [error] Error fetching available embedding types: Error: net::ERR_INTERNET_DISCONNECTED
+2025-09-24 02:01:00.920 [info] GithubAvailableEmbeddingTypesManager: Could not find any available embedding types. Error: requestFailed
+2025-09-24 02:01:00.920 [info] GithubAvailableEmbeddingTypesManager: Could not find any available embedding types. Error: requestFailed
+2025-09-24 02:01:00.928 [info] Logged in as Ph111211
+2025-09-24 02:01:00.934 [info] FetcherService: electron-fetch failed with error: net::ERR_INTERNET_DISCONNECTED
+2025-09-24 02:01:00.957 [info] FetcherService: electron-fetch failed with error: net::ERR_INTERNET_DISCONNECTED
+2025-09-24 02:01:00.977 [info] FetcherService: node-fetch failed with error: fetch failed
+2025-09-24 02:01:00.989 [info] FetcherService: node-fetch failed with error: fetch failed
+2025-09-24 02:01:01.000 [info] FetcherService: node-http failed with error: getaddrinfo ENOTFOUND api.github.com
+2025-09-24 02:01:01.000 [info] FetcherService: node-http failed with error: getaddrinfo ENOTFOUND api.github.com
+2025-09-24 02:01:06.174 [info] Logged in as Ph111211
+2025-09-24 02:01:06.186 [info] FetcherService: electron-fetch failed with error: net::ERR_INTERNET_DISCONNECTED
+2025-09-24 02:01:06.222 [info] FetcherService: electron-fetch failed with error: net::ERR_INTERNET_DISCONNECTED
+2025-09-24 02:01:06.249 [info] FetcherService: node-fetch failed with error: fetch failed
+2025-09-24 02:01:06.265 [info] FetcherService: node-fetch failed with error: fetch failed
+2025-09-24 02:01:06.299 [info] FetcherService: node-http failed with error: getaddrinfo ENOTFOUND api.github.com
+2025-09-24 02:01:06.301 [error] GitHub Copilot could not connect to server. Extension activation failed: "net::ERR_INTERNET_DISCONNECTED"
+2025-09-24 02:01:06.301 [info] FetcherService: node-http failed with error: getaddrinfo ENOTFOUND api.github.com
